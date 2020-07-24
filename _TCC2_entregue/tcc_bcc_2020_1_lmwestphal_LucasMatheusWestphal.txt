@@ -1,0 +1,4 @@
+Descompactar o arquivo fontes.zip
+dentro dele tem 2 pastas: holographic-generator é a biblioteca e TCC-Demo é a aplicação de demonstração.
+é só abrir no unity com as respectivas versões: 2018.3.10f1 e 2018.4.22f1. ou abrir com o Unity HUb que ele vai mostrar as versões necessárias do editor.
+Pra fazer o build da biblioteca é só ir em Files->Exportar como asset
